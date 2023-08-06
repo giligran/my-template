@@ -12,17 +12,10 @@ html {
   box-sizing: inherit;
 }
 
-:root {
-  --background-color: #a4978e;
-  --main-text-color: #040c0e;
-  --secondary-text-color: #132226;
-  --elements-color: #525b56;
-  --section-color: #be9063;
-}
+
 
 body {
   height: 100vh;
-  background-color: var(--background-color);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
